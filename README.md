@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like discussing/talking about philosophy, psychology, mythology, art, history related topics.
 
-[Deniz Işık's Github Stats:](https://github-readme-stats.vercel.app/api?username=laurance18&count_private=true&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=laurance18&count_private=true&show_icons=true&theme=tokyonight">
