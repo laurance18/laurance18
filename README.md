@@ -1,7 +1,7 @@
 ### Hi there, I'm Deniz Işık 👋
 
-- 🔭 I’m currently working on progressive projects!
-- 🌱 I’m currently learning Python.
+- 🔭 I’m currently working on The Odin Project!
+- 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on projects that I can be a part of.
 - 🤔 I’m looking for help with coding exercises.
 - 💬 Ask me about anything really.
