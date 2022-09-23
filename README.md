@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on The Odin Project!
 - 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on projects that I can be a part of.
-- 🤔 I’m looking for help with coding exercises.
-- 💬 Ask me about anything really.
+- 🤔 I’m looking for help with Flexbox!
 - 📫 How to reach me: [Twitter](https://twitter.com/_laurance18_) - Discord@Laurance#8460
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like discussing/talking about philosophy, psychology, mythology, art, history related topics.
