@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [the Odin Project](www.theodinproject.com/)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Back-end Development**
 
-- 🤝 I’m looking for help with **Flexbox**
+- 🤝 I’m looking for help with **Ruby**
 
 - 📫 How to reach me **denizisik2004@gmail.com - Discord@Laurance#8460**
 
