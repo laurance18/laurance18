@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **denizisik2004@gmail.com - Discord@Laurance#8460**
 
-- ⚡ Fun fact **I like discussing/talking about philosophy, psychology, mythology, art, history related topics.**
+- ⚡ Fun fact **I like discussing/talking about philosophy, psychology, mythology, history and art related topics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
