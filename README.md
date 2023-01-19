@@ -23,11 +23,11 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=laurance18&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=7200" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=laurance18&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=14400" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurance18&hide_border=true&layout=compact&theme=tokyonight&count_private=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurance18&hide_border=true&layout=compact&theme=tokyonight&count_private=true&cache_seconds=14400" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
