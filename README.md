@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Back-end Development**
 
-- 🤝 I’m looking for help with **Ruby**
+- 🤝 I’m looking for help with **React / Tailwind CSS**
 
 - 📫 How to reach me **denizisik2004@gmail.com - Discord@Laurance#8460**
-
-- ⚡ Fun fact **I like discussing/talking about philosophy, psychology, mythology, history and art related topics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
