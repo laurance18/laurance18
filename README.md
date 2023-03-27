@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [The Odin Project](www.theodinproject.com/)
 
-- 🌱 I’m currently learning **Back-end Development**
+- 👯 I’m looking to collaborate on **Web Development**
 
-- 🤝 I’m looking for help with **React / Tailwind CSS**
+- 🌱 I’m currently learning **React / Tailwind CSS**
 
 - 📫 How to reach me **denizisik2004@gmail.com - Discord@Laurance#8460**
 
