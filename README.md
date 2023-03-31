@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 🌱 I’m currently learning **React / Tailwind CSS**
+- 🌱 I’m currently learning **ReactJS / Tailwind CSS**
 
 - 📫 How to reach me **denizisik2004@gmail.com - Discord@Laurance#8460**
 
