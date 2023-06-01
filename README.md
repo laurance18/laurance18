@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Deniz Işık</h1>
-<h3 align="center">Mechanical Engineering student at IZTECH</h3>
+<h2 align="center">Mechanical Engineering student at IZTECH</h2>
 
 - 🔭 I’m currently working on [The Odin Project](www.theodinproject.com/)
 
