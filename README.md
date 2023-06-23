@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS / Tailwind CSS**
 
-- 📫 How to reach me **denizisik2004@gmail.com - Discord@Laurance#8460**
+- 📫 How to reach me **denizisik2004@gmail.com - Discord@laurance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
