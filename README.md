@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Deniz Işık</h1>
 <h2 align="center">Mechanical Engineering student at IZTECH</h2>
 
-- 🔭 I’m currently working on [The Odin Project](www.theodinproject.com/)
+- 🔭 I’m currently working on personal projects to add on my [portfolio](https://laurance18.github.io/portfolio/)
 
 - 👯 I’m looking to collaborate on **Web Development**
 
