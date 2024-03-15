@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on personal projects to add on my [portfolio](https://laurance18.github.io/portfolio/)
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Image Processing**
 
-- 🌱 I’m currently learning **ReactJS / Tailwind CSS**
+- 🌱 I’m currently learning **Object Detection & Applications**
 
 - 📫 How to reach me **Discord@laurance**
 
